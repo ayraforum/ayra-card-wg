@@ -10,6 +10,15 @@
 - Name (Org)
 
 ## Agenda
+
+### Antitrust & Competition Reminder
+
+All discussions in this meeting must comply with applicable antitrust and competition laws and with Ayra’s [Antitrust and Competition Policy](https://governance.ayra.forum/governance-artifacts/antitrust-and-competition-policy). Participants should avoid discussing pricing, costs, market allocation, competitive strategy, or any other competitively sensitive information.
+
+The purpose of this Working Group is to focus on technical and governance matters within its charter. If a discussion raises concerns, the Chair will pause or redirect it.
+
+Thank you.
+
 1. [Item # - title](https://github.com/ayra-foundation/acwg/issues/##)
 2. [Item #2 - title](https://github.com/ayra-foundation/acwg/issues/##)
 
